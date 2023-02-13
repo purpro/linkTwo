@@ -3,4 +3,4 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=purpro&layout=compact&theme=tokyonight)
 
-![csdn统计](https://stats.justsong.cn/api/csdn?id=89891080)
+![csdn统计](https://stats.justsong.cn/api/csdn?id=liuxudanhahaha)
